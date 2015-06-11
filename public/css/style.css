@@ -1,0 +1,113 @@
+/*anotacion*/
+
+body{
+background-image: url("../img/black2.png");
+}
+
+.cabezote{
+	background-image: url("../img/img2.jpg");
+	height: 200px; 
+	position: center;
+}
+
+.wrap{
+	padding: 0;
+    width :75%;
+    min-width:600px;
+    background-image: url("../img/black2.png");
+    margin: auto;
+}
+
+h4{
+	font-size: 25px;
+	color: white;
+	margin-left: 300px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h3{
+	color: white;
+}
+p{
+	color: black;
+	font-size: 15px;
+}
+textarea{
+	width: 400px;
+	height: 70px;
+}
+#idcomentario{
+	margin-left: 100px;
+}
+#imprime{
+	height: 500px;
+	background-image: url("../img/claro1.png");
+	color: black;
+	font-size: 15px;
+	font-family: arial;
+}
+#name{
+	font-size: 20px;
+	font-weight: 2px;
+} 
+textarea{
+	width:500px ;
+	border-radius:8px;
+	margin-left:250px;
+	font-family: arial;
+	font-size: 15px;
+}
+
+#guardar{
+	border-radius:8px;
+	cursor:pointer;
+	background-color:rgb(26, 192, 186);
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+	margin-left: 370px;
+	margin-bottom: 50px;
+}
+#nombreuser{
+	border-radius:8px;
+	position: center;
+	width: 400px;
+	height: 30px;
+	margin-left:300px;
+	font-size: 15px; 
+}
+
+
+footer {
+	background-image: url("../img/black1.png");
+	height: 30px; 
+	position: center;
+}
+
+#footer{
+	color: white;
+	font-size: 18px;
+	margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
